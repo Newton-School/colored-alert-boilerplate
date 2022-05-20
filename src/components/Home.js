@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 
-import "./home.css";
+import "./Home.css";
 const object = [
   {
     type: "primary",
